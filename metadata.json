@@ -1,0 +1,5 @@
+{
+  "name": "DocAI",
+  "description": "An AI-powered diagnostic assistant that provides potential diagnoses and generates a comprehensive, auto-updating medical report based on a chat conversation.",
+  "requestFramePermissions": []
+}
