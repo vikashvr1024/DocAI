@@ -16,7 +16,7 @@ DocAI is an AI-powered diagnostic assistant that provides potential diagnoses an
 
 ## Link
 
-docaiclinic.web.app
+https://docaiclinic.web.app/
 
 ---
 
